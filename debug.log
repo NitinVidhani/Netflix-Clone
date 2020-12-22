@@ -1,0 +1,6 @@
+[1222/095609.330:ERROR:process_info.cc(359)] UncheckedAllocate
+[1222/095620.021:ERROR:file_io.cc(135)] WriteFile: Insufficient system resources exist to complete the requested service. (0x5AA)
+[1222/095621.919:ERROR:crash_report_database_win.cc(526)] failed to write header
+[1222/102806.462:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\e56f3726-aeff-42b7-ae9a-1f5deb73332f: The system cannot find the path specified. (0x3)
+[1222/102806.463:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\ea7c112b-b71b-483d-800a-17abbe04af70: The system cannot find the path specified. (0x3)
+[1222/102807.520:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

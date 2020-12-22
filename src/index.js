@@ -15,3 +15,6 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+// API KEY =>  f5046bd6139af0cfb97b3a04d3a68bcb
